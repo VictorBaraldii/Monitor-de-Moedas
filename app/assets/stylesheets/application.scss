@@ -1,0 +1,35 @@
+/* application.scss */
+@import 'custom'; /* Se você tiver um arquivo custom.scss */
+
+/* application.css ou application.scss */
+
+/* Seleciona todos os parágrafos (p) e altera sua cor para azul */
+p {
+    color: blue;
+    font-size: 16px;
+}
+
+/* Seleciona todos os títulos h1 e centraliza o texto */
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+/* Seleciona um elemento com a classe 'button' */
+.button {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.important-text {
+    font-weight: bold;
+    color: red;
+}
+#unique-box {
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 5px;
+}
+
