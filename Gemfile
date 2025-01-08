@@ -31,7 +31,7 @@ gem "solid_cable"
 # Gem to use awesome graphs - CharKick
 gem "chartkick"
 
-gem 'bootstrap', '~> 5.0.0'
+gem 'bootstrap', '~> 5.3.3'
 
 gem 'chartkick'
 gem 'groupdate'  # Para manipular datas de forma mais eficiente
